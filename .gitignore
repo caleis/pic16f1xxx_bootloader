@@ -1,0 +1,5 @@
+#nbproject/*
+#nbproject
+/dist/
+/build/
+/debug/
